@@ -1,4 +1,4 @@
-# Capstone Project for IBM Data Science Professional Certificate.
+# Capstone Project for IBM Data Science Professional Certificate
 Thsi repository contains my work for the Capstone Project for IBM Data Science Professional Certificate on Coursera. This repository may cassionally may contain other work from other parts of the IBM Data Science Professional Certificate. 
 
 ## Overview
