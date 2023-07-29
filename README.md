@@ -6,5 +6,3 @@ The capstone project is meant to deliver business insights to a hypothetical com
 
 ## Further description of my work
 My work involves data collection, data wrangling, data analysis, data visualization, and presentation of my findings. Through REST SpaceX APIs, I accessed data regarding SpaceX's Falcon 9 launches, including launch date, launch success/failure, landing success/failure, the reason of each failure, launch site, and the orbit that a mission traveled in space. Through use of Scikit-learn, pandas, numpy, and other packages in Python, I was able to predict whether a Falcon 9 launch will succeed or fail with 83% accuracy given its features. I also used Plotly's Dash to create an interactive Dash application, the code of which is included for review.
-You are invited to tkae a further look at the presentation of my findings as a Powerpoint presentation that is included in this repository.
-Thanks for viewing!
