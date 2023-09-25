@@ -18,7 +18,7 @@ Through data analysis, I have generated several insights of Falcon 9 launches. T
 
 Here is my conclusion: Based on the above analysis, I have found that the features of a falcon 9 launch that would most likely lead to a successful launch is one with FT booster version, has payload between 300kg and 5330kg, aims for SSO orbit in space, and is launched from KSC LC 39-A Launch site in California.
 
-With this insight, companies can increase their space rocket launch success rate by focusing their resources and research in getting and/or upgrading the booster to FT booster version, developing a relatively light - preferably between 300kg and 5330kg - payloads, aims for SSO orbit in space and, if they had to choose between the four launching sites used by Falcon 9 for a launch site with all other features being equal, use the KSC LC 39-A launch site in California.
+With this insight, companies can increase their space rocket launch success rate by focusing their resources and research in getting and/or upgrading the booster to FT booster version, developing a relatively light - preferably between 300kg and 5330kg - payloads, aims for SSO orbit in space and, if they had to choose between the four launching sites used by Falcon 9 for a launch site with all other features being equal, use the KSC LC 39-A launch site in California. While correlation does not causation, my data analysis suggests that it may be beneficial to tailor their launches as such.
 
 Thank you for reading!
 
