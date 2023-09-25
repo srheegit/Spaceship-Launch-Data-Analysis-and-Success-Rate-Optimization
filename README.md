@@ -10,15 +10,15 @@ My work involves data collection, data wrangling, data analysis, data visualizat
 ## Conclusions
 Through data analysis, I have generated several insights of Falcon 9 launches. The key insights are as follows:
 
- - Among all orbits with at least five launches, SSO is the orbit with the greatest success rate
+ - Among all orbits with at least five launches, Sun-Synchronous Orbit (SSO) is the orbit with the greatest success rate
  - As shown by success rate by year and success rate by flight number, more trials leads to higher success rate
- - Launch site KSC LC 39-A has the highest success rate, both overall and for light payload mass
+ - Launch site KSC LC 39-A in California has the highest success rate, both overall and for light payload mass
  - Payloads approximately between 300kg and 5330kg – which are relatively light - have the largest success rate
  - FT booster version has the largest success rate
 
 Here is my conclusion: Based on the above analysis, I have found that the features of a falcon 9 launch that would most likely lead to a successful launch is one with FT booster version, has payload between 300kg and 5330kg, aims for SSO orbit in space, and is launched from KSC LC 39-A Launch site in California.
 
-With this insight, companies can increase its success rate by focusing their resources and research in getting and/or upgrading the booster to FT booster version, developing a relatively light - preferably between 300kg and 5330kg - payloads, aims for SSO orbit in space and, if they had to choose between the four launching sites used by Falcon 9 for a launch site (with all other things being equal), use the KSC LC 39-A launch site in California.
+With this insight, companies can increase their space rocket launch success rate by focusing their resources and research in getting and/or upgrading the booster to FT booster version, developing a relatively light - preferably between 300kg and 5330kg - payloads, aims for SSO orbit in space and, if they had to choose between the four launching sites used by Falcon 9 for a launch site with all other features being equal, use the KSC LC 39-A launch site in California.
 
 Thank you for reading!
 
