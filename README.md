@@ -7,7 +7,7 @@ This project is meant to deliver key data insights of space rocket launches of S
 ## Further Details and Tools Used
 My work involves data collection, data wrangling, data analysis, data visualization, and presentation of my findings. Through REST SpaceX APIs, I accessed data regarding SpaceX's Falcon 9 launches, including launch date, launch success/failure, landing success/failure, the reason of each failure, launch site, and the orbit that a mission traveled in space. Through use of various machine learning models in Python, I was able to predict whether a Falcon 9 launch will succeed or fail with 83% accuracy given its features. I also used Plotly's Dash to create an interactive Dash application, the code of which is included for review.
 
-## Conclusions
+## Insights
 Through data analysis, I have generated several insights of Falcon 9 launches. The key insights are as follows:
 
  - Among all orbits with at least five launches, Sun-Synchronous Orbit (SSO) is the orbit with the greatest success rate
